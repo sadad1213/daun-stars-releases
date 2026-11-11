@@ -2,11 +2,11 @@
 
 Official Windows builds and update metadata for Daun Stars.
 
-[Download the launcher](https://github.com/sadad1213/daun-stars-releases/releases/latest/download/DaunStarsLauncher.exe) · [Browse releases](https://github.com/sadad1213/daun-stars-releases/releases)
+[Download the launcher](https://github.com/sadad1213/daun-stars-releases/releases/latest/download/DaunStars.exe) · [Browse releases](https://github.com/sadad1213/daun-stars-releases/releases)
 
 ## Play
 
-Download **DaunStarsLauncher.exe**, save it in a writable folder, and run it. The launcher opens fullscreen, fades into the loading screen, checks for updates, and installs the game automatically. At 99% it starts the fullscreen game and hands over to its matching loading screen.
+Download **DaunStars.exe**, save it in a writable folder, and run it. The launcher opens fullscreen, fades into the loading screen, checks for updates, and installs the game automatically. At 99% it starts the fullscreen game and hands over to its matching loading screen.
 
 The launcher requires .NET Framework 4.8 or newer, included in current Windows 10/11 releases. The current game and launcher interface is in Russian.
 
@@ -22,7 +22,7 @@ To install the game manually, download [DaunStars-Windows-x64.zip](https://githu
 
 | File | Purpose |
 | --- | --- |
-| `DaunStarsLauncher.exe` | Standalone launcher with embedded artwork and font. |
+| `DaunStars.exe` | Standalone launcher with embedded artwork and font. |
 | `DaunStarsLauncher-Windows-x64.zip` | Launcher self-update package. |
 | `DaunStars-Windows-x64.zip` | Ready-to-play Windows x64 game build. |
 | `update.json` | Independent game/launcher versions, download URLs, sizes, and SHA-256 checksums. |
